@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "eb97",
+      "title": "ITIS6177",
+      "author": "Fabio"
+    },
+    {
+      "id": "f132",
+      "title": "ITIS3310",
+      "author": "Fabio"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
